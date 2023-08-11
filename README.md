@@ -49,14 +49,10 @@ Feel free to customize, modify, or expand upon these projects as part of your le
   - `coffee-cafe.html`: The main HTML file for the coffee cafe website.
   - `styles.css`: The CSS file for styling the coffee cafe website.
 
-## Credits
-
-These projects were created as part of [your name]'s web development learning journey. Special thanks to [list any resources or tutorials you used] for providing guidance and inspiration.
 
 ## License
 
-These projects are provided under the [choose an appropriate license or leave this section out if not applicable].
-
-Feel free to reach out to [your email or contact information] for any questions or feedback.
+These projects are provided under the MIT License
+Feel free to reach out to omar.tfaris@gmail.com for any questions or feedback.
 
 Happy coding!
