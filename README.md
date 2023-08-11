@@ -37,7 +37,7 @@ To explore these projects:
 2. Open the HTML files in a web browser to view the projects.
 3. Review the code in the HTML and CSS files to understand the structure and styling.
 
-Feel free to customize, modify, or expand upon these projects as part of your learning journey.
+Feel free to customize, modify, or expand upon these projects.
 
 ## Project Files
 
